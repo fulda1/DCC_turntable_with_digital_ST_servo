@@ -7,4 +7,4 @@ Some highlights:
 * Utilize program flash for store configuration (because need more data than EEPROM offer)
 * utilize DMA for serial data transfer as servo use 1M BPS speed, it must be fast.
 
-![some photo](/fulda1/DCC_turntable_with_digital_ST_servo/hardware/Servo1.jpg "San Juan Mountains")
+![some photo](/hardware/Servo1.jpg "San Juan Mountains")
